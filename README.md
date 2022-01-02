@@ -20,4 +20,4 @@
 #### Python 3.7 or above.
 
 ### How to use:
-#### To be updated.
+#### Just run the exe file.
