@@ -17,7 +17,7 @@
 
 
 ### Requirments:
-## Python 3.7 or above.
+### Python 3.7 or above.
 
 ## How to use:
 ### To be updated.
