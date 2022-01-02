@@ -14,3 +14,10 @@
 ### 9- IBM X-Force
 ### 10- AlienVault
 ### 11- crt.sh
+
+
+### Requirments:
+## Python 3.7 or above.
+
+## How to use:
+### To be updated.
