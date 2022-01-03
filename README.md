@@ -20,4 +20,6 @@
 #### Python 3.7 or above.
 
 ### How to use:
-#### Just run the exe file.
+#### 1- Download all files as ZIP file.
+#### 2- Extract file.
+#### 3- Run main.exe
