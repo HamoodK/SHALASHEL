@@ -22,4 +22,4 @@
 ### How to use:
 #### 1- Download all files as ZIP file.
 #### 2- Extract file.
-#### 3- Run main.exe
+#### 3- Run SHALASHEL.exe
