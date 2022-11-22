@@ -15,6 +15,8 @@
 #### 10- AlienVault
 #### 11- crt.sh
 #### 12- urlscan.io
+#### 13- Hybrid-Analysis
+#### 14- Jotti
 
 
 ### Requirments:
@@ -24,3 +26,4 @@
 #### 1- Download all files as ZIP file.
 #### 2- Extract file.
 #### 3- Run SHALASHEL.exe
+
