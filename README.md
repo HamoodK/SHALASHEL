@@ -19,11 +19,11 @@
 #### 14- Jotti
 
 
-### Requirments:
+## Requirments:
+### Linux:
 #### Python 3.7 or above.
+### Windows:
+#### Just run SHALASHEL.exe
 
-### How to use:
-#### 1- Download all files as ZIP file.
-#### 2- Extract file.
-#### 3- Run SHALASHEL.exe
+
 
